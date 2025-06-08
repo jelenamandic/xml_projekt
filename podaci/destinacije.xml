@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<destinacije>
+    <destinacija>
+        <naziv>Pariz</naziv>
+        <drzava>Francuska</drzava>
+        <cijena>850</cijena>
+        <tip>Gradski odmor</tip>
+    </destinacija>
+    <destinacija>
+        <naziv>Atena</naziv>
+        <drzava>Grčka</drzava>
+        <cijena>750</cijena>
+        <tip>Povijesna tura</tip>
+    </destinacija>
+    <destinacija>
+        <naziv>Maldivi</naziv>
+        <drzava>Maldivi</drzava>
+        <cijena>2000</cijena>
+        <tip>Egzotičan odmor</tip>
+    </destinacija>
+    <destinacija>
+        <naziv>Barcelona</naziv>
+        <drzava>Španjolska</drzava>
+        <cijena>950</cijena>
+        <tip>Kultura i more</tip>
+    </destinacija>
+    <destinacija>
+        <naziv>Dubai</naziv>
+        <drzava>UAE</drzava>
+        <cijena>1600</cijena>
+        <tip>Luksuzni odmor</tip>
+    </destinacija>
+    <destinacija>
+        <naziv>Amsterdam</naziv>
+        <drzava>Nizozemska</drzava>
+        <cijena>780</cijena>
+        <tip>Gradski odmor</tip>
+    </destinacija>
+</destinacije>
+

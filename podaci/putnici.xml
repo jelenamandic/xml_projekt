@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<putnici>
+    <putnik>
+        <ime>Ivana</ime>
+        <prezime>Rajić</prezime>
+        <email>ivana.rajic@example.com</email>
+        <destinacija>Pariz</destinacija>
+    </putnik>
+    <putnik>
+        <ime>Petar</ime>
+        <prezime>Novosel</prezime>
+        <email>petar.novosel@example.com</email>
+        <destinacija>Maldivi</destinacija>
+    </putnik>
+    <putnik>
+        <ime>Lana</ime>
+        <prezime>Kos</prezime>
+        <email>lana.kos@example.com</email>
+        <destinacija>Atena</destinacija>
+    </putnik>
+    <putnik>
+        <ime>Marko</ime>
+        <prezime>Barišić</prezime>
+        <email>marko.barisic@example.com</email>
+        <destinacija>Dubai</destinacija>
+    </putnik>
+    <putnik>
+        <ime>Martina</ime>
+        <prezime>Kovač</prezime>
+        <email>martina.kovac@example.com</email>
+        <destinacija>Barcelona</destinacija>
+    </putnik>
+    <putnik>
+        <ime>Ivan</ime>
+        <prezime>Perić</prezime>
+        <email>ivan.peric@example.com</email>
+        <destinacija>Amsterdam</destinacija>
+    </putnik>
+</putnici>
